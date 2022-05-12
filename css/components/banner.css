@@ -1,0 +1,40 @@
+.banner {
+  /* border: 5px solid rgb(179, 213, 43); */
+  /* height: 500px; */
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0px;
+}
+
+.container {
+  /* border: 5px solid red; */
+  padding: 0px 300px;
+  margin: auto;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 2.5em;
+  text-shadow: 2px 2px #080808;
+}
+
+.banner p {
+  color: white;
+  text-shadow: 1.5px 1.5px #0a0909;
+}
+
+.banner a {
+  text-decoration: none;
+  background-color: white;
+  padding: 14px 26px;
+  border-radius: 50px;
+  color: rgba(130, 123, 123, 0.831);
+  border: 1px solid rgba(130, 123, 123, 0.831);
+  transition: 0.3s ease;
+  box-shadow: 0px 1px #888888;
+}
+
+.banner a:hover {
+  color: rgb(110, 107, 107);
+  border: 1px solid rgb(110, 107, 107);
+}

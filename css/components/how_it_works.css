@@ -1,0 +1,28 @@
+/* .container {
+  width: 900px;
+  margin: auto;
+} */
+
+.container h2 {
+  text-align: center;
+}
+
+.cards {
+  /* border: 1px solid green; */
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  border: 1px solid rgba(169, 169, 225, 0.68);
+  text-align: center;
+  width: 200px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.icon {
+  height: 100px;
+  /* width: auto; */
+}
